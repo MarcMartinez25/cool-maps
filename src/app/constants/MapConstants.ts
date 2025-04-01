@@ -1,0 +1,1 @@
+export const CENTER_US = [-98.5795, 39.8283];
