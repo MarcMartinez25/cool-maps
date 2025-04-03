@@ -7,7 +7,7 @@ import { Map } from "ol";
 
 const Home = () => {
   const [map, setMap] = useState<Map | null>(null);
-
+  
   return (
   <div className="flex h-screen">
     <Sidebar map={map} />
